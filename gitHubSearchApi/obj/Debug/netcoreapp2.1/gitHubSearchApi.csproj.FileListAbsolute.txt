@@ -1,0 +1,16 @@
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/gitHubSearchApi.deps.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/gitHubSearchApi.runtimeconfig.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/gitHubSearchApi.runtimeconfig.dev.json
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/gitHubSearchApi.dll
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/bin/Debug/netcoreapp2.1/gitHubSearchApi.pdb
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.csprojAssemblyReference.cache
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.RazorAssemblyInfo.cache
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.RazorAssemblyInfo.cs
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.AssemblyInfoInputs.cache
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.AssemblyInfo.cs
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.RazorTargetAssemblyInfo.cache
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.dll
+/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/obj/Debug/netcoreapp2.1/gitHubSearchApi.pdb

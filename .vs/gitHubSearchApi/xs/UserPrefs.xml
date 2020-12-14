@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{77DD1D07-5818-49A7-ACB1-D6309122820B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="gitHubSearchApi/Services/Types/Item.cs">
+    <Files>
+      <File FileName="gitHubSearchApi/Services/SearchService.cs" Line="28" Column="56" />
+      <File FileName="gitHubSearchApi/Services/Types/SearchResultDto.cs" Line="10" Column="23" />
+      <File FileName="gitHubSearchApi/Controllers/SearchController.cs" Line="35" Column="19" />
+      <File FileName="gitHubSearchApi/Services/Interfaces/ISearchService.cs" Line="12" Column="1" />
+      <File FileName="gitHubSearchApi/Services/Types/Item.cs" Line="16" Column="21" />
+      <File FileName="gitHubSearchApi/Services/Types/RepoOwner.cs" Line="12" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gitHubSearchApi" expanded="True">
+            <Node name="gitHubSearchApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Types" expanded="True">
+                  <Node name="Item.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.gitHubSearchApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/Services/SearchService.cs" relfile="gitHubSearchApi/Services/SearchService.cs" line="32" column="1" />
+      <Breakpoint file="/Users/me1o/Projects/gitHubSearchApi/gitHubSearchApi/Controllers/SearchController.cs" relfile="gitHubSearchApi/Controllers/SearchController.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
